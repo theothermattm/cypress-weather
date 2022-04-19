@@ -1,0 +1,14 @@
+{
+  "name": "cypress-weather",
+  "version": "0.0.1",
+  "description": "Cypress tests for the weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.4"
+  }
+}
