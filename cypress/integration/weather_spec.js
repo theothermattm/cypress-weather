@@ -1,6 +1,11 @@
 describe('The NOAA Site', () => {
-  it('Loads the homepage', () => {
+  beforeEach(() => {
     cy.visit('https://www.weather.gov')
-    cy.contains('CURRENT CONDITIONS')
+  })
+  it('Loads the homepage', () => {
+    // TODO 
+  })
+  it('performs a forecast lookup', ()=> {
+    // TODO
   })
 })

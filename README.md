@@ -1,3 +1,5 @@
-# A little example of testing the NOAA site with Cypress
+# Cypress Test Shell for https://forecase.weather.gov
+
+This is the shell of a project to begin building Cypress tests for interviews.  Good luck!
 
 
