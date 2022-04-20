@@ -1,11 +1,1 @@
-describe('The NOAA Site', () => {
-  beforeEach(() => {
-    cy.visit('https://www.weather.gov')
-  })
-  it('Loads the homepage', () => {
-    // TODO 
-  })
-  it('performs a forecast lookup', ()=> {
-    // TODO
-  })
-})
+// TODO load the page and check the forecast for your zip code and assert that it's correct
